@@ -1,0 +1,14 @@
+.asib {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.bg {
+	background-color: rgba(76,11,206,0.15);
+	border: 1px solid rgba(76,11,206,0.15);
+}
+.bd-highlight{
+    background-color: #cdbbf2;
+}
+.bg-height{
+    height: 100px;
+}
